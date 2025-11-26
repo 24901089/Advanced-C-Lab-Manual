@@ -1,3 +1,4 @@
+
 EXP NO:16 C PROGRAM TO SEARCH A GIVEN ELEMENT IN THE GIVEN LINKED LIST.
 Aim:
 To write a C program to search a given element in the given linked list.
@@ -137,8 +138,3 @@ Output:
 
 Result:
 Thus, the function that deletes a given element from a linked list is verified successfully.
-
-
-
-
-
